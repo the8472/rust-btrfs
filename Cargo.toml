@@ -1,10 +1,10 @@
 [package]
 
-	name = "btrfs"
-	description = "Interface for BTRFS ioctls etc"
+	name = "btrfs2"
+	description = "Interface for BTRFS ioctls etc | fork of the btrfs-crate containing fixes. Intent to yank crate once fixes are accepted upstream!"
 	license = "MIT"
 
-	version = "1.2.1"
+	version = "1.2.2"
 
 	authors = [
 		"James Pharaoh <james@wellbehavedsoftware.com>",
